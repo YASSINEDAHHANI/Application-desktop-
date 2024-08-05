@@ -1,0 +1,56 @@
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.csproj.AssemblyReference.cache
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.csproj.ResolveComReference.cache
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam_AMC.Form1.resources
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam_AMC.Properties.Resources.resources
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam_AMC.Table.resources
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.csproj.GenerateResource.cache
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.AssemblyInfoInputs.cache
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.AssemblyInfo.cs
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.csproj.CoreCompileInputs.cache
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Sanlam AMC.exe
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Sanlam AMC.deps.json
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Sanlam AMC.runtimeconfig.json
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Sanlam AMC.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Sanlam AMC.pdb
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\XLParser.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.csproj.Up2Date
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\refint\Sanlam AMC.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.pdb
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam AMC.genruntimeconfig.cache
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\ref\Sanlam AMC.dll
+C:\Users\dahan\Documents\VS\Sanlam AMC\Sanlam AMC\obj\Debug\net8.0-windows\Sanlam_AMC.ClientPdf.resources
